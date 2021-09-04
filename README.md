@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p float="left">
-
-[![Paulo's  GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulovictorBraw&show_icons=true&theme=nightowl)](https://github.com/paulovictorBraw)
-
-[![Paulo's most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulovictorBraw&show_icons=true&layout=compact&theme=nightowl)](https://github.com/paulovictorBraw)
-
-</p>
+<table>
+<tr>
+     <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=paulovictorBraw&show_icons=true&theme=nightowl" /></td>
+     <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulovictorBraw&show_icons=true&layout=compact&theme=nightowl" /></td>
+  </tr>  
+</table>
