@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 [![Paulo's most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulovictorBraw&show_icons=true&theme=nightowl)](https://github.com/paulovictorBraw)
 
-[![Paulo's most used Languages time](https://github-readme-stats.vercel.app/api/wakatime/?username=paulovictorBraw&show_icons=true&theme=nightowl)](https://github.com/paulovictorBraw)
+[![Paulo's most used Languages time](https://github-readme-stats.vercel.app/api/wakatime?username=paulovictorBraw)](https://github.com/paulovictorBraw)
